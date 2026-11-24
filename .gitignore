@@ -1,0 +1,11 @@
+# Dependencias y artefactos comunes
+node_modules/
+.DS_Store
+dist/
+.env
+.env.*
+*.log
+
+# Archivos temporales del editor
+.vscode/
+.idea/
